@@ -1,15 +1,15 @@
 {
   "source": "https://results.elections.nsw.gov.au/LB2606/Newcastle/Mayor/FirstPreferencesReport.html",
-  "updated": "2026-04-20T04:00:47+00:00",
+  "updated": "2026-04-20T05:13:13+00:00",
   "totals": {
-    "obrien": 2189,
-    "morris": 37200,
-    "mccabe": 14836,
-    "barrie": 5159,
-    "clausen": 12035,
-    "caine": 1651
+    "obrien": 2777,
+    "morris": 48031,
+    "mccabe": 18295,
+    "barrie": 6547,
+    "clausen": 15188,
+    "caine": 1994
   },
-  "formal": 73070,
-  "informal": 1894,
-  "ballot_papers": 74964
+  "formal": 92832,
+  "informal": 2247,
+  "ballot_papers": 95079
 }
