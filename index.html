@@ -38,6 +38,17 @@
     font-size: 13px;
     opacity: 0.7;
   }
+  header .notice {
+    margin-top: 8px;
+    display: inline-block;
+    background: #3a2a14;
+    border: 1px solid #6b4a1f;
+    color: #ffd28a;
+    padding: 6px 12px;
+    border-radius: 4px;
+    font-size: 12px;
+    opacity: 1;
+  }
 
   .stage {
     width: min(100vw, 1600px);
@@ -119,6 +130,7 @@
 <header>
   <h1>Newcastle Mayor 2026 — Race to the Counter</h1>
   <p id="status">Loading…</p>
+  <p class="notice">Auto-updates are switched off — this page will no longer refresh.</p>
 </header>
 
 <div class="stage">
@@ -208,7 +220,6 @@
   }
 
   loadAndRender();
-  setInterval(loadAndRender, 60_000);
 </script>
 
 </body>
